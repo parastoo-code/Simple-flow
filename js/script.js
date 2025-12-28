@@ -125,7 +125,7 @@ checkemail.addEventListener("input",()=>{
          checkemail.style.border="";
     }
     
-    const regex3=/^[A-Za-z0-9.%+-]+@[A-Za-z0-9.-]+.com$/;
+    const regex3=/^[A-Za-z0-9._-]+@[A-Za-z0-9.-]+\.[a-zA-Z]{2,6}$/;
     if(!regex3.test(checkemail.value)){
         const p =document.createElement("p");
         p.textContent="Please enter a valid email address";
