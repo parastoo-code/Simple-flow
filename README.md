@@ -17,6 +17,16 @@ SimpleFlow is a clean and simple sign-up/sign-in page designed for easy account 
  
  1. Clone this repository:https://github.com/parastoo-code/Simple-flow.git
  2. Open the index.html file in your web browser.
+ ## Screenshots 
+ View the functionality of the project with the following screenshots.
+
+ Screenshots: https://drive.google.com/file/d/1RoA6tkwJ2HSYV3dwYDkvjmFVu6sOty7V/view?usp=sharing
+ 
+ ## Live Deployment
+
+ The project is live and accessible online:
+ 
+ - Vercel: (https://simple-flow-git-master-parastoos-projects-76efb334.vercel.app?_vercel_share=2ygbuh8oOgK0Fl71FRhDJTAyeCz6aDbN)
  # Contributing 
   Feel free to fork this repository and submit pull requests with improvements or suggestions.
   # Contact
