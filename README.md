@@ -15,6 +15,12 @@ SimpleFlow is a clean and simple sign-up/sign-in page designed for easy account 
  # How to View Locally
  To view the page locally:
  
- 1. Clone this repository:
+ 1. Clone this repository:https://github.com/parastoo-code/Simple-flow.git
+ 2. Open the index.html file in your web browser.
+ # Contributing 
+  Feel free to fork this repository and submit pull requests with improvements or suggestions.
+  # Contact
+  For any questions or support, please open an issue or contact the project maintainer
+ 
     
     
